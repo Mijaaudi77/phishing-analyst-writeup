@@ -1,7 +1,11 @@
 Challenge 1: Phishing Email Analysis
-Email Details: From: Mail Delivery System Mailer-Daemon@se7-syd.hostedmail.net.au Sent: 18 March 2021 04:14 To: kinnar1975@yahoo.co.uk kinnar1975@yahoo.co.uk Subject: Undeliverable: Website contact form submission
 
-Who is the primary recipient of this email? (1 points) kinnar1975@yahoo.co.uk
+Email Details: From: Mail Delivery System Mailer-Mijaaudi77@se7-syd.hostedmail.net.au 
+               Sent: 18 March 2021 04:14 
+               To: kinalla1975@yahoo.co.uk 
+               Subject: Undeliverable: Website contact form submission
+
+Who is the primary recipient of this email? (1 points) kinalla1975@yahoo.co.uk
 
 What is the subject of this email? (1 points) Undeliverable: Website contact form submission
 
